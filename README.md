@@ -39,7 +39,7 @@ Auto Save
 Phase 2 -
 Multi-factor authentication | 
 Integrate with google calendar | 
-Filter tasks | 
+Filter and Search tasks | 
 Deadline for cards | 
 Prioritize tasks | 
 Reminders | 
