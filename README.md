@@ -60,7 +60,9 @@ user_id,
 user_name, 
 encoded_pass, 
 user_email, 
-user_status
+user_status,
+user_tasks,
+user_cards
 }
 
 Task{
